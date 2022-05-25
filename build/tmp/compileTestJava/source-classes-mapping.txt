@@ -1,0 +1,2 @@
+com/example/dicpop/DicpopApplicationTests.java
+ com.example.dicpop.DicpopApplicationTests
