@@ -1,0 +1,101 @@
+.title {
+  color: #ffffff;
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+.loginForm {
+  padding-left: 40px;
+}
+
+.loginForm-container {
+  padding-left: 40px;
+  padding-bottom: 40px;
+}
+
+.email-input {
+  width: 250px;
+  max-width: 334px;
+  border-radius: 1px;
+  padding: 2px 20px 2px 50px;
+  background: rgba(57, 63, 84, 0.8);
+  border-style: double;
+  border-color: white;
+  border-width: 3px;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.email-icon {
+  position: absolute;
+  color: lightgray;
+  left: 12px;
+  top: 10px;
+  font-size: 24px;
+}
+
+.email {
+  flex-grow: 1;
+  color: #d5dbec;
+  font-size: 15px;
+  width: 100%;
+  line-height: 2.4rem;
+  vertical-align: middle;
+  border-style: none;
+  background: transparent;
+  outline: none;
+}
+
+.password-input {
+  width: 250px;
+  max-width: 334px;
+  border-radius: 1px;
+  padding: 2px 20px 2px 50px;
+  background: rgba(57, 63, 84, 0.8);
+  border-style: double;
+  border-color: white;
+  border-width: 3px;
+  margin-bottom: 30px;
+  position: relative;
+}
+.password-icon {
+  position: absolute;
+  color: lightgray;
+  left: 12px;
+  top: 10px;
+  font-size: 24px;
+}
+.password {
+  flex-grow: 1;
+  color: #d5dbec;
+  font-size: 15px;
+  width: 100%;
+  line-height: 2.4rem;
+  vertical-align: middle;
+  border-style: none;
+  background: transparent;
+  outline: none;
+}
+
+.signIn-button {
+  width: 305px;
+}
+
+.signIn {
+  width: 100%;
+  border-radius: 980px;
+  padding: 10px;
+  color: #ffffff;
+  background-color: #f6262d;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+}
+
+.signIn:hover {
+  background-color: #e93b41;
+}
+
+.signIn:active {
+  background-color: #c52227;
+}
